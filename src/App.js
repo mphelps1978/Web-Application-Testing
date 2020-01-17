@@ -69,6 +69,7 @@ function App() {
 
   return (
     <div className="App">
+      SCOREBOARD APP
       <div className="scoreboard">
         <ScoreBoard
           balls={balls}
